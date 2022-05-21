@@ -1,1 +1,2 @@
-canonifyURLs = false
+canonifyURLs = true
+baseurl = https://ahhda.github.io/lambdatutorial.com/

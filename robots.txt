@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahhda.github.io/lambdatutorial.com/sitemap.xml
+Sitemap: https:///lambdatutorial.com/sitemap.xml

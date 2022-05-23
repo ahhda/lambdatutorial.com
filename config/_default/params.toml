@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>"
+footer = ""
 
 # Feed
 copyRight = "Copyright (c) 2022-2023 Anuj Bansal"
